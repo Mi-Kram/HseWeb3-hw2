@@ -1,0 +1,9 @@
+{
+  "name": "trip-fund-homework",
+  "private": true,
+  "version": "1.0.0",
+  "description": "TripFund V1/V2 upgrade validation for Foundry",
+  "devDependencies": {
+    "@openzeppelin/upgrades-core": "^1.45.0"
+  }
+}
