@@ -7,8 +7,8 @@
 
 1. Скачать репозиторий:
    ```
-   git clone --recurse-submodules <TODO>
-   cd <TODO>
+   git clone --recurse-submodules https://github.com/Mi-Kram/HseWeb3-hw2.git
+   cd HseWeb3-hw2
    git submodule update --init --recursive
    ```
 
